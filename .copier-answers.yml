@@ -1,0 +1,23 @@
+# Do NOT update manually; changes here will be overwritten by Copier
+_commit: v1.7.0-4-g2dfb5fe
+_src_path: oca_addons-repo-template/
+ci: GitHub
+dependency_installation_mode: PIP
+generate_requirements_txt: true
+github_check_license: false
+github_enable_codecov: false
+github_enable_makepot: false
+github_enable_stale_action: false
+github_enforce_dev_status_compatibility: false
+include_wkhtmltopdf: false
+odoo_version: 15.0
+org_name: Glo Networks
+org_slug: GlodoUK
+rebel_module_groups: []
+repo_description: Sample repository for PR 144
+repo_name: Sample repository for PR 144
+repo_slug: oca_addons-repo-template-pr-144
+repo_website: https://github.com/GlodoUK/oca_addons-repo-template-pr-144
+travis_apt_packages: []
+travis_apt_sources: []
+
